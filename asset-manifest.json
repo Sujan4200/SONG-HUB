@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SONG-HUB/static/css/main.b297c715.css",
+    "main.js": "/SONG-HUB/static/js/main.604a2337.js",
+    "index.html": "/SONG-HUB/index.html",
+    "main.b297c715.css.map": "/SONG-HUB/static/css/main.b297c715.css.map",
+    "main.604a2337.js.map": "/SONG-HUB/static/js/main.604a2337.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b297c715.css",
+    "static/js/main.604a2337.js"
+  ]
+}
